@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfStOMP",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfStOMP",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
