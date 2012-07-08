@@ -1,0 +1,17 @@
+{
+	"category" : "StompBench-Model",
+	"classinstvars" : [
+		"authors" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"firstName",
+		"surname",
+		"nickname" ],
+	"name" : "StompMockAuthor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

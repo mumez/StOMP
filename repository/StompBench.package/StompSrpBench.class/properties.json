@@ -1,0 +1,14 @@
+{
+	"category" : "StompBench-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "StompSrpBench",
+	"pools" : [
+		 ],
+	"super" : "StompBench",
+	"type" : "normal" }

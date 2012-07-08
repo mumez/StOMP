@@ -1,0 +1,3 @@
+converting
+colorFromRgbArray: rgbArray
+	^nil

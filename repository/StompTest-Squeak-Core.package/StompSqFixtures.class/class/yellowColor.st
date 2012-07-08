@@ -1,0 +1,3 @@
+fixtures
+yellowColor
+	^ Color yellow

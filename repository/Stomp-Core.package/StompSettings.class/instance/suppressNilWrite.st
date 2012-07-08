@@ -1,0 +1,3 @@
+accessing
+suppressNilWrite
+	^ self writeVariableDefinitionsAsReference not

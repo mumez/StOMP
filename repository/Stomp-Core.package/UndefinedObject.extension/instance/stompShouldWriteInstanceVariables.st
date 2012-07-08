@@ -1,0 +1,3 @@
+*Stomp-Core
+stompShouldWriteInstanceVariables
+	^false

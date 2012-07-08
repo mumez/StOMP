@@ -1,0 +1,15 @@
+{
+	"category" : "StompTest-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"instVar1",
+		"instVar2" ],
+	"name" : "StompMockMixedClass",
+	"pools" : [
+		 ],
+	"super" : "Array",
+	"type" : "variable" }

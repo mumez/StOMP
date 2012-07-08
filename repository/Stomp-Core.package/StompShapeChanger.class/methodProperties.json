@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"on:" : "mu 5/2/2011 14:45" },
+	"instance" : {
+		"loadAdditions" : "mu 5/2/2011 14:45",
+		"loadInstVarAt:named:put:" : "mu 6/1/2011 14:05",
+		"on:" : "mu 5/2/2011 14:45",
+		"targetInstance" : "mu 5/2/2011 14:45",
+		"targetInstance:" : "mu 5/2/2011 14:45" } }

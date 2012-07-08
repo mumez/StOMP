@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"fromStomp:" : "mu 5/6/2011 23:45",
+		"fromStomp:setting:" : "mu 4/22/2011 22:13",
+		"stompCreateBitsInstanceFrom:" : "mu 2/9/2011 00:37",
+		"stompCreateFixedInstanceFrom:" : "mu 2/9/2011 00:42",
+		"stompCreateInstance" : "mu 5/10/2011 12:17",
+		"stompCreateInstance:" : "mu 5/10/2011 12:18",
+		"stompCreateInstanceFrom:" : "mu 4/3/2011 23:02",
+		"stompCreateMixedInstanceFrom:" : "mu 5/13/2011 23:02",
+		"stompFromBytes:" : "mu 5/25/2011 23:41" } }

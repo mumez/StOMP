@@ -1,0 +1,14 @@
+{
+	"category" : "StompTest-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "StompReadWriteTestCase",
+	"pools" : [
+		 ],
+	"super" : "StompTestCase",
+	"type" : "normal" }

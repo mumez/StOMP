@@ -1,0 +1,14 @@
+{
+	"category" : "StompTest-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "StompMockVariableAlternativeClass",
+	"pools" : [
+		 ],
+	"super" : "StompMockVariableNewFailedClass",
+	"type" : "variable" }

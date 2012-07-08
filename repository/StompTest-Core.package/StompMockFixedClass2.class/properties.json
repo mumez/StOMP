@@ -1,0 +1,18 @@
+{
+	"category" : "StompTest-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"instVar1",
+		"instVar2",
+		"instVar3",
+		"instVar4",
+		"instVar5" ],
+	"name" : "StompMockFixedClass2",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

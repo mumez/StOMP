@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"classIdOf:ifAbsent:" : "mu 5/3/2012 18:05",
+		"classesDictionary" : "mu 5/2/2011 14:42",
+		"classesDictionary:" : "mu 5/2/2011 14:42",
+		"environmentIdOf:" : "mu 6/2/2011 17:52",
+		"environmentsDictionary" : "mu 5/11/2011 23:58",
+		"environmentsDictionary:" : "mu 5/11/2011 23:58",
+		"includesClass:" : "mu 5/2/2011 14:42",
+		"includesEnvironment:" : "mu 5/11/2011 23:57",
+		"instVarNamesWithIndicesDictionary" : "mu 6/1/2011 12:50",
+		"instVarNamesWithIndicesDictionary:" : "mu 6/1/2011 12:50",
+		"instVarNamesWithIndicesOf:" : "mu 6/1/2011 12:50",
+		"rememberClass:" : "mu 5/13/2011 23:20",
+		"rememberEnvironment:" : "mu 5/13/2011 23:20",
+		"rememberInstVarNames:indices:of:" : "mu 6/1/2011 12:51",
+		"rememberReferenceOf:" : "mu 5/2/2011 14:42" } }

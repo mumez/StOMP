@@ -1,0 +1,17 @@
+{
+	"category" : "Stomp-Core",
+	"classinstvars" : [
+		"suppressTranscriptLogging",
+		"suppressSignaling" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"className",
+		"element",
+		"context" ],
+	"name" : "StompWarning",
+	"pools" : [
+		 ],
+	"super" : "Warning",
+	"type" : "normal" }

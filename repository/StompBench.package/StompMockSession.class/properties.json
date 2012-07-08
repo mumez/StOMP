@@ -1,0 +1,16 @@
+{
+	"category" : "StompBench-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"expires",
+		"properties" ],
+	"name" : "StompMockSession",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

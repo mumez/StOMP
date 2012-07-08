@@ -1,0 +1,14 @@
+{
+	"category" : "Stomp-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"targetInstance" ],
+	"name" : "StompShapeChanger",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

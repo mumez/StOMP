@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"supportsMultibyteIdentifiers" : "mu 5/25/2011 00:34",
+		"supportsMultibyteIdentifiers:" : "mu 5/25/2011 00:34",
+		"suppressNilWrite" : "mu 5/11/2011 23:41",
+		"suppressNilWrite:" : "mu 5/11/2011 23:41",
+		"useEnvironment" : "mu 5/2/2011 14:24",
+		"useEnvironment:" : "mu 5/2/2011 14:21",
+		"withHeader" : "mu 5/2/2011 23:16",
+		"withHeader:" : "mu 5/2/2011 23:16",
+		"writeVariableDefinitionsAsReference" : "mu 5/15/2011 01:01",
+		"writeVariableDefinitionsAsReference:" : "mu 5/11/2011 23:41" } }

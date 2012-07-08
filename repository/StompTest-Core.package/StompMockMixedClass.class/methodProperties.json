@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"new" : "mu 4/25/2011 23:42" },
+	"instance" : {
+		"equals:" : "mu 2/2/2011 23:57",
+		"instVar1" : "mu 1/3/2011 00:31",
+		"instVar1:" : "mu 1/3/2011 00:31",
+		"instVar2" : "mu 1/3/2011 00:31",
+		"instVar2:" : "mu 1/3/2011 00:31",
+		"stompShouldWriteInstanceVariables" : "mu 1/3/2011 00:51" } }

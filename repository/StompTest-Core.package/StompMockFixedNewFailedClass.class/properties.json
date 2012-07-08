@@ -1,0 +1,16 @@
+{
+	"category" : "StompTest-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"att1",
+		"att2",
+		"att3Block" ],
+	"name" : "StompMockFixedNewFailedClass",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

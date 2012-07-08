@@ -1,0 +1,22 @@
+{
+	"category" : "StompBench-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"name",
+		"price",
+		"manufacturer",
+		"inStock",
+		"popularity",
+		"timestamp",
+		"categories",
+		"features" ],
+	"name" : "StompMockSearchDocument",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

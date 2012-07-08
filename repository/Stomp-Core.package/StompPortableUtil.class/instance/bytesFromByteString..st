@@ -1,0 +1,3 @@
+converting
+bytesFromByteString: aByteString
+	^aByteString asByteArray

@@ -1,0 +1,14 @@
+{
+	"category" : "Stomp-Core",
+	"classinstvars" : [
+		"tupleTags" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "StompConstants",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

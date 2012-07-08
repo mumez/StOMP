@@ -1,0 +1,3 @@
+fixtures
+floatingPointAnswerBytes1
+	^ StompPortableUtil default testFixturesClass float1dot2bytes

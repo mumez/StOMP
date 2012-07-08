@@ -1,0 +1,16 @@
+{
+	"category" : "StompTest-Core",
+	"classinstvars" : [
+		"att1",
+		"att2",
+		"cache1" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "StompMockObjectWithCache",
+	"pools" : [
+		 ],
+	"super" : "StompMockFixedClass",
+	"type" : "normal" }

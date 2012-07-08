@@ -1,0 +1,14 @@
+{
+	"category" : "StompTest-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "StompMockShapeChanger",
+	"pools" : [
+		 ],
+	"super" : "StompShapeChanger",
+	"type" : "normal" }

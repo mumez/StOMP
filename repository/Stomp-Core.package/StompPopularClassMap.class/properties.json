@@ -1,0 +1,15 @@
+{
+	"category" : "Stomp-Core",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"classToCode",
+		"codeToClass" ],
+	"name" : "StompPopularClassMap",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

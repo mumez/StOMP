@@ -1,0 +1,2 @@
+*Stomp-Core-writing
+stompAfterWrite

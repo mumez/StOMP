@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testWriteReadNewFailedClass" : "mu 4/26/2011 14:46",
+		"testWriteReadNewFailedClassReceiverAlternative" : "mu 4/26/2011 14:48",
+		"testWriteReadNewVariableFailedClass" : "mu 4/26/2011 15:10",
+		"testWriteReadNewVariableFailedClassReciverAlternative" : "mu 4/26/2011 15:10" } }

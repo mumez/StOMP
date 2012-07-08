@@ -1,0 +1,3 @@
+fixtures
+blueColor
+	^ Color blue

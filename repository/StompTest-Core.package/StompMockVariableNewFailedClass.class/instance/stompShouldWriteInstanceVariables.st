@@ -1,0 +1,3 @@
+testing-stomp
+stompShouldWriteInstanceVariables 
+	^ true

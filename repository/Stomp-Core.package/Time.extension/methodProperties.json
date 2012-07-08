@@ -1,0 +1,7 @@
+{
+	"class" : {
+		"stompCreateInstanceFrom:" : "mu 5/7/2011 22:14" },
+	"instance" : {
+		"stompShouldWriteInstanceVariables" : "mu 5/28/2011 23:34",
+		"stompSupportsReference:" : "mu 5/14/2011 13:16",
+		"stompWriteContentTo:" : "mu 3/9/2011 23:20" } }

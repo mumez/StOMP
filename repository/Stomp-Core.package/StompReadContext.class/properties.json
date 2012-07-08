@@ -1,0 +1,19 @@
+{
+	"category" : "Stomp-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"classIdsDictionary",
+		"environmentNamesDictionary",
+		"instVarNamesWithIndicesDictionary",
+		"classAliasesDictionary",
+		"shapeChangersDictionary",
+		"fieldsInfo" ],
+	"name" : "StompReadContext",
+	"pools" : [
+		 ],
+	"super" : "StompContext",
+	"type" : "normal" }

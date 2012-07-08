@@ -1,0 +1,3 @@
+fixtures
+yellowColor
+	self subclassResponsibility 

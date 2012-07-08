@@ -1,0 +1,16 @@
+{
+	"category" : "StompBench-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"status",
+		"time",
+		"params" ],
+	"name" : "StompMockSearchHeader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

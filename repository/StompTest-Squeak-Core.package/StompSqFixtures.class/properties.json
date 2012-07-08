@@ -1,0 +1,14 @@
+{
+	"category" : "StompTest-Squeak-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "StompSqFixtures",
+	"pools" : [
+		 ],
+	"super" : "StompPortableFixtures",
+	"type" : "normal" }

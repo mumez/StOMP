@@ -1,0 +1,15 @@
+{
+	"category" : "Stomp-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"requestor",
+		"objectsDictionary" ],
+	"name" : "StompContext",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

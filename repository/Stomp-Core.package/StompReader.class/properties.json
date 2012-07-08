@@ -1,0 +1,15 @@
+{
+	"category" : "Stomp-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"context",
+		"version" ],
+	"name" : "StompReader",
+	"pools" : [
+		 ],
+	"super" : "MpDecoder",
+	"type" : "normal" }

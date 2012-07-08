@@ -1,0 +1,3 @@
+converting
+nanosecondsFromDuration: duration
+	self subclassResponsibility 

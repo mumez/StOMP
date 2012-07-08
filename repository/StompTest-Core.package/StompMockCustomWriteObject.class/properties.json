@@ -1,0 +1,15 @@
+{
+	"category" : "StompTest-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"email" ],
+	"name" : "StompMockCustomWriteObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

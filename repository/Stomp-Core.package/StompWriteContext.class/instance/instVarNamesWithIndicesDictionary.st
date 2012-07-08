@@ -1,0 +1,3 @@
+accessing
+instVarNamesWithIndicesDictionary
+	^ instVarNamesWithIndicesDictionary ifNil: [instVarNamesWithIndicesDictionary := IdentityDictionary new]

@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"stompAfterWrite" : "mu 4/28/2011 14:34",
+		"stompAt:put:" : "mu 1/5/2011 15:52",
+		"stompBasicReadContentFrom:" : "mu 5/13/2011 14:35",
+		"stompBytes" : "mu 5/25/2011 23:37",
+		"stompDo:" : "mu 4/28/2011 15:50",
+		"stompInitialize" : "mu 1/5/2011 22:46",
+		"stompInstVarAt:named:put:" : "mu 6/1/2011 14:43",
+		"stompInstVarNamed:writtenAs:" : "mu 6/1/2011 12:45",
+		"stompPrepareWrite" : "mu 11/24/2010 23:49",
+		"stompReadContentFrom:" : "mu 3/8/2011 23:59",
+		"stompReadValue" : "mu 1/5/2011 22:52",
+		"stompShouldWriteInstanceVariables" : "mu 4/26/2011 14:45",
+		"stompSupportsReference:" : "mu 2/21/2011 00:00",
+		"stompTransientInstVarNames" : "mu 12/5/2010 00:42",
+		"stompValueContentSize" : "mu 5/28/2011 23:28",
+		"stompWriteContentTo:" : "mu 1/4/2011 23:57",
+		"stompWriteValue" : "mu 11/24/2010 23:57",
+		"toStomp" : "mu 5/6/2011 23:45" } }

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"new:" : "mu 4/26/2011 14:51",
+		"prototype1" : "mu 4/26/2011 14:51" },
+	"instance" : {
+		"att1" : "mu 4/26/2011 14:51",
+		"att1:" : "mu 4/26/2011 14:51",
+		"att2" : "mu 4/26/2011 14:51",
+		"att2:" : "mu 4/26/2011 14:51",
+		"att3Block" : "mu 4/26/2011 14:51",
+		"att3Block:" : "mu 4/26/2011 14:51",
+		"stompInitialize" : "mu 4/26/2011 15:05",
+		"stompShouldWriteInstanceVariables" : "mu 4/26/2011 15:09" } }

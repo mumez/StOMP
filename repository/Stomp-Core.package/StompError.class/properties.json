@@ -1,0 +1,14 @@
+{
+	"category" : "Stomp-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "StompError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

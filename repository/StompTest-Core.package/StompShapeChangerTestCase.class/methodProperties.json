@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"fixedClassOLDAnswerArray1" : "mu 5/26/2011 23:47",
+		"fixedClassOLDAnswerArray2" : "mu 5/27/2011 00:06",
+		"mockPersonAnswerArray1" : "mu 6/6/2011 13:03",
+		"renamedComplexReadAnswerArray1" : "mu 6/6/2011 12:56",
+		"renamedComplexReadAnswerArray2" : "mu 6/6/2011 12:29",
+		"renamedComplexReadAnswerArray3" : "mu 6/6/2011 12:54",
+		"renamedComplexReadAnswerArray4" : "mu 6/6/2011 12:18",
+		"renamedNewFailedAnswerArray1" : "mu 6/6/2011 11:34",
+		"renamedReadFailedAnswerArray1" : "mu 6/6/2011 12:22",
+		"testBlockRenamedComplexShapeChangerRead" : "mu 5/11/2011 11:38",
+		"testBlockShapeChangedRead" : "mu 6/3/2011 10:37",
+		"testNewFailedRead" : "mu 5/11/2011 10:44",
+		"testRenamedComplexRead" : "mu 5/11/2011 11:28",
+		"testRenamedComplexReadFailed" : "mu 5/11/2011 11:38",
+		"testRenamedComplexShapeChangerRead" : "mu 5/11/2011 11:39",
+		"testRenamedComplexShapeChangerReadFailed" : "mu 5/11/2011 11:50",
+		"testRenamedRead" : "mu 6/3/2011 10:38",
+		"testRenamedReadFailed" : "mu 5/11/2011 10:03",
+		"testRenamedShapeChangedRead" : "mu 6/3/2011 10:38",
+		"testShapeChangedRead" : "mu 6/3/2011 10:39",
+		"testShapeChangedReadCircularReference" : "mu 5/11/2011 11:12" } }

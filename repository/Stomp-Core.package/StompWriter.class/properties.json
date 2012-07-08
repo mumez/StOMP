@@ -1,0 +1,14 @@
+{
+	"category" : "Stomp-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"context" ],
+	"name" : "StompWriter",
+	"pools" : [
+		 ],
+	"super" : "MpEncoder",
+	"type" : "normal" }

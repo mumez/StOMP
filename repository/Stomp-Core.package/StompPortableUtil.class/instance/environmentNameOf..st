@@ -1,0 +1,3 @@
+actions
+environmentNameOf: anObject
+	^#Smalltalk

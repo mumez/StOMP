@@ -1,0 +1,14 @@
+{
+	"category" : "Stomp-Pharo-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "StompPharoPortableUtil",
+	"pools" : [
+		 ],
+	"super" : "StompSqPortableUtil",
+	"type" : "normal" }

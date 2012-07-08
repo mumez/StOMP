@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"loadInstVarsBlock:loadAdditionsBlock:" : "mu 5/2/2011 14:46" },
+	"instance" : {
+		"loadAdditions" : "mu 5/2/2011 14:46",
+		"loadAdditionsBlock" : "mu 5/2/2011 14:46",
+		"loadAdditionsBlock:" : "mu 5/2/2011 14:46",
+		"loadInstVarAt:named:put:" : "mu 6/1/2011 14:31",
+		"loadInstVarsBlock" : "mu 5/2/2011 14:46",
+		"loadInstVarsBlock:" : "mu 5/2/2011 14:46" } }

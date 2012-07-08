@@ -1,0 +1,15 @@
+{
+	"category" : "Stomp-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default",
+		"DialectSpecificClass" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "StompPortableUtil",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

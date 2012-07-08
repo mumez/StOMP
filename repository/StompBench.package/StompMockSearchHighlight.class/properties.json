@@ -1,0 +1,15 @@
+{
+	"category" : "StompBench-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"features" ],
+	"name" : "StompMockSearchHighlight",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
